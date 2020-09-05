@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ab6cac8-76e2-4b3e-b935-8569ac9d96ef" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
+  <component name="ProjectId" id="1gW22RZncF9bGBmzPDkM08dnijB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/admin" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/admin" />
+      <recent name="$PROJECT_DIR$/includes" />
+      <recent name="$PROJECT_DIR$/assets/js" />
+      <recent name="$PROJECT_DIR$/assets/images" />
+      <recent name="$PROJECT_DIR$/assets/fonts" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ab6cac8-76e2-4b3e-b935-8569ac9d96ef" name="Default Changelist" comment="" />
+      <created>1598215822052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598215822052</updated>
+      <workItem from="1598215824153" duration="46506000" />
+      <workItem from="1598910437502" duration="2341000" />
+      <workItem from="1598962790450" duration="7781000" />
+      <workItem from="1599154514148" duration="18917000" />
+      <workItem from="1599339206543" duration="2605000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="379" y="0" width="626" height="723" key="#PHP" timestamp="1598217696998">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="0" width="626" height="723" key="#PHP/0.0.1366.728@0.0.1366.728" timestamp="1598217696998" />
+    <state x="86" y="211" width="1184" height="298" key="#SQL_Dialects" timestamp="1598298328822">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="86" y="211" width="1184" height="298" key="#SQL_Dialects/0.0.1366.728@0.0.1366.728" timestamp="1598298328822" />
+    <state x="141" y="21" width="1146" height="672" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598298274779">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="141" y="21" width="1146" height="672" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1598298274779" />
+    <state x="416" y="156" width="524" height="409" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598217040034">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="416" y="156" width="524" height="409" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1598217040034" />
+    <state x="346" y="122" width="424" height="479" key="FileChooserDialogImpl" timestamp="1598297366539">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="122" width="424" height="479" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598297366539" />
+    <state x="501" y="285" width="354" height="155" key="NewPhpFileDialog" timestamp="1599340075585">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="501" y="285" width="354" height="155" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1599340075585" />
+    <state x="67" y="0" key="SettingsEditor" timestamp="1598297782343">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="67" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1598297782343" />
+    <state width="82" height="523" key="SqlResolveConfigurable" timestamp="1598297361348">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="82" height="523" key="SqlResolveConfigurable/0.0.1366.728@0.0.1366.728" timestamp="1598297361348" />
+    <state width="498" height="445" key="SwitcherDM" timestamp="1598255487099">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="498" height="445" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1598255487099" />
+    <state x="0" y="0" width="804" height="728" key="find.popup" timestamp="1598477310498">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="804" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1598477310498" />
+    <state x="347" y="160" key="run.anything.popup" timestamp="1598297293425">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="347" y="160" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1598297293425" />
+    <state x="4" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1599207870128">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="4" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1599207870128" />
+  </component>
+</project>
